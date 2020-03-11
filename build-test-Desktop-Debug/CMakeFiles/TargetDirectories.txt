@@ -1,0 +1,4 @@
+/home/fermat/git/build-test-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/fermat/git/build-test-Desktop-Debug/CMakeFiles/test.dir
+/home/fermat/git/build-test-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/fermat/git/build-test-Desktop-Debug/CMakeFiles/test_autogen.dir
