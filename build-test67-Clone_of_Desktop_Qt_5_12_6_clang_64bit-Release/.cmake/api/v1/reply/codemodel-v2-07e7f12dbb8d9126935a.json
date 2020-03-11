@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test67",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test67::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test67-Release-b403a3bb8b5a5c0c2015.json",
+					"name" : "test67",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test67_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test67_autogen-Release-333d6997ed848351cdb6.json",
+					"name" : "test67_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release",
+		"source" : "/Users/famaizo/Workplace/test67"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

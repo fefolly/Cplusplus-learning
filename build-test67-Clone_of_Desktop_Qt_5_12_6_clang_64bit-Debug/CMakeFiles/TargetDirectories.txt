@@ -1,0 +1,4 @@
+/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Debug/CMakeFiles/test67.dir
+/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Debug/CMakeFiles/test67_autogen.dir

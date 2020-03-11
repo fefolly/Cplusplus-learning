@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="test67"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\Qt\;CMake Files\..\..\Qt\5.12.6\;CMake Files\..\..\Qt\5.12.6\clang_64\;CMake Files\..\..\Qt\5.12.6\clang_64\lib\;CMake Files\..\..\Qt\5.12.6\clang_64\lib\cmake\;CMake Files\..\..\Qt\5.12.6\clang_64\lib\cmake\Qt5Core\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test67">
+				<Option output="/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/test67" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_NO_DEBUG"/>
+					<Add directory="/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release"/>
+					<Add directory="/Users/famaizo/Workplace/test67"/>
+					<Add directory="/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/test67_autogen/include"/>
+					<Add directory="/Users/famaizo/Qt/5.12.6/clang_64/lib/QtCore.framework"/>
+					<Add directory="/Users/famaizo/Qt/5.12.6/clang_64/lib/QtCore.framework/Headers"/>
+					<Add directory="/Users/famaizo/Qt/5.12.6/clang_64/./mkspecs/macx-clang"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 test67"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test67/fast">
+				<Option output="/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/test67" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_NO_DEBUG"/>
+					<Add directory="/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release"/>
+					<Add directory="/Users/famaizo/Workplace/test67"/>
+					<Add directory="/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/test67_autogen/include"/>
+					<Add directory="/Users/famaizo/Qt/5.12.6/clang_64/lib/QtCore.framework"/>
+					<Add directory="/Users/famaizo/Qt/5.12.6/clang_64/lib/QtCore.framework/Headers"/>
+					<Add directory="/Users/famaizo/Qt/5.12.6/clang_64/./mkspecs/macx-clang"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 test67/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test67_autogen">
+				<Option working_dir="/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 test67_autogen"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/test67_autogen/mocs_compilation.cpp">
+			<Option target="test67"/>
+		</Unit>
+		<Unit filename="/Users/famaizo/Workplace/test67/main.cpp">
+			<Option target="test67"/>
+		</Unit>
+		<Unit filename="/Users/famaizo/Workplace/test67/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/famaizo/Workplace/test67/../../Qt/5.12.6/clang_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.12.6\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/famaizo/Workplace/test67/../../Qt/5.12.6/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.12.6\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/famaizo/Workplace/test67/../../Qt/5.12.6/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.12.6\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/famaizo/Workplace/test67/../../Qt/5.12.6/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.12.6\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/famaizo/Workplace/test67/../../Qt/5.12.6/clang_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.12.6\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

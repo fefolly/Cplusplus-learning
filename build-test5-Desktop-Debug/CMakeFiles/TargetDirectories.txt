@@ -1,0 +1,3 @@
+/Users/famaizo/Workplace/build-test5-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/Users/famaizo/Workplace/build-test5-Desktop-Debug/CMakeFiles/edit_cache.dir
+/Users/famaizo/Workplace/build-test5-Desktop-Debug/CMakeFiles/test5.dir

@@ -1,0 +1,1 @@
+/usr/bin/clang++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/test67.dir/test67_autogen/mocs_compilation.cpp.o CMakeFiles/test67.dir/main.cpp.o  -o test67  -Wl,-rpath,/Users/famaizo/Qt/5.12.6/clang_64/lib /Users/famaizo/Qt/5.12.6/clang_64/lib/QtCore.framework/QtCore 

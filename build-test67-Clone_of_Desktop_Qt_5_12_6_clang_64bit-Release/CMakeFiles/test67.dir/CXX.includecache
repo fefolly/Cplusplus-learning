@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/famaizo/Qt/5.12.6/clang_64/lib/QtCore.framework/Headers/QCoreApplication
+qcoreapplication.h
+/Users/famaizo/Qt/5.12.6/clang_64/lib/QtCore.framework/Headers/qcoreapplication.h
+
+/Users/famaizo/Qt/5.12.6/clang_64/lib/QtCore.framework/Headers/qcoreapplication.h
+QtCore/qglobal.h
+-
+QtCore/qstring.h
+-
+QtCore/qobject.h
+-
+QtCore/qcoreevent.h
+-
+QtCore/qeventloop.h
+-
+QtCore/qscopedpointer.h
+-
+
+/Users/famaizo/Workplace/build-test67-Clone_of_Desktop_Qt_5_12_6_clang_64bit-Release/test67_autogen/mocs_compilation.cpp
+
+/Users/famaizo/Workplace/test67/main.cpp
+QCoreApplication
+-
+vector
+-
+iostream
+-
+
